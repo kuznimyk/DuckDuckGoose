@@ -1,3 +1,26 @@
+/*
+<<<<<<< HEAD
+
+                                                Ý Æ Ã-Ø Œ ¿
+
+Code description:
+    Software that implements circled linked list. For a duck duck goose game
+
+Authors:
+    * Mykyta Kuznietsov
+
+Class:
+    * AUCSC 112 LAB 1H04
+
+ID numbers:
+    * 1796900
+
+
+Date:
+    * March 19, 2024
+
+*/
+
 import java.util.Random;
 import java.util.Scanner;
 
